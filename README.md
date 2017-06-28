@@ -2,6 +2,8 @@
 
 a Sample of -webkit-overflow-scrolling: touch
 
+The **wos** of "wos-touch-sample" means `-webkit-overflow-scrolling` of CSS property.
+
 ## How to install, run and check
 
 Requirements:
