@@ -1,0 +1,23 @@
+.container {
+    background-color: #DDD;
+    width: 300px;
+    height: 500px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.list {
+    height: 500px;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    font-size: 24pt;
+    padding: 0;
+    margin: 0;
+}
+
+.list > li {
+    list-style-type: none;
+}
